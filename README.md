@@ -4,6 +4,12 @@ This is the extension version of the [SDAtom-WebUi-us](https://github.com/Krypto
 
 ![alt text](https://github.com/Kryptortio/SDAtom-WebUi-us/blob/main/screenshot.png?raw=true)
 
+# Issues
+
+It's a good idea to first check [the troubleshooting section.](https://github.com/Kryptortio/SDAtom-WebUi-us#troubleshooting)
+
+Any issues with this script should be reported [in the main repo](https://github.com/Kryptortio/SDAtom-WebUi-us). 
+
 # Installation
 
 Open the webui and go to the **Extensions** tab, then **Install from URL** and enter the url to this repo (https://github.com/Kryptortio/SDAtom-WebUi-client-queue-ext) and then click install.
